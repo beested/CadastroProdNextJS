@@ -24,7 +24,7 @@ DELETAR PRODUTOS
 #Ao clicar deletar o produto, o mesmo é apagado da base de dados.
 ```
 
-O Sistema conta com algumas informações extras.
+## O Sistema conta com algumas informações extras.
 Sistema de rotas, utilizando o NEXT.JS.
 Zebramento (entre branco e cinza).
 Exibição de valores em $ REAL.
