@@ -25,6 +25,7 @@ DELETAR PRODUTOS
 ```
 
 ## O Sistema conta com algumas informações extras.
+```
 Sistema de rotas, utilizando o NEXT.JS.
 Zebramento (entre branco e cinza).
 Exibição de valores em $ REAL.
@@ -37,5 +38,6 @@ Botão para limpar os filtros selecinados.
 Sistema de páginação, exibindo 4 produtos por página.
 Caso o estoque estiver como 0, é exibido como ESGOTADO(em vermelho).
 Caso não tenha fabricante, é exibido como SEM FABRICANTE.
+```
 
 Abra o [http://localhost:3000](http://localhost:3000) para ver os resultados.
