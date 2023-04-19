@@ -246,7 +246,7 @@ export function ProdTabela() {
                 </Td>
                 <Td>
                   {produto.fabricante === ''
-                    ? 'SEM FABRICANTE'
+                    ? 'Sem Fabricante'
                     : produto.fabricante}
                 </Td>
                 <Td
