@@ -2,7 +2,7 @@ Projeto para [Windel](https://demo.windel.com.br/dashboard) projeto feito aparti
 
 ## CRUD de Produtos
 
-First, run the development server:
+Primeiro, execute o servidor de desenvolvimento:
 
 ```
 CADASTRO DE PRODUTOS
