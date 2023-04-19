@@ -6,13 +6,13 @@ First, run the development server:
 
 ```
 CADASTRO DE PRODUTOS
-#Nome do Produto
-#Referencia
-#Unidade
-#Imagem
-#Valor de Venda
-#Fabricante
-#Estoque
+-Nome do Produto
+-Referencia
+-Unidade
+-Imagem
+-Valor de Venda
+-Fabricante
+-Estoque
 
 LISTAGEM DE PRODUTOS
 #Todos os produtos criados são listados na sua respectiva tabela.
